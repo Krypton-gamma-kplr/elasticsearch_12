@@ -1,4 +1,6 @@
 # elasticsearch_12
+
+Exemple de recherche de mots dans une base de données de livre.
 Pour lancer le programme :
 
 docker-compose up -d --build
